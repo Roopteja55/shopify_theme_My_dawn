@@ -1,6 +1,4 @@
-# :wave: Say hi to Elizabeth :wave:
-
-[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
+# Shopify the Development
 
 This project is created and intended to be used for the [Shopify Theme Development – Online Store 2.0 + TailwindCSS course](https://weeklyhow.com/courses/)
 
